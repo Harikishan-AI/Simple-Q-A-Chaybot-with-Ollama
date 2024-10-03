@@ -52,35 +52,3 @@ Here are some example models that can be downloaded:
 | Solar                     | 10.7B      | 6.1GB  | `ollama run solar`           |
 
 **Note:** You should have at least 8 GB of RAM available to run the 7B models, 16 GB to run the 13B models, and 32 GB to run the 33B models.
-
-## Installation
-
-| Step                                     | Command/Instruction                                 |
-|------------------------------------------|----------------------------------------------------|
-| Clone the repository                     | ```bash                                           |
-|                                          | git clone <repository_url>                         |
-|                                          | cd <repository_folder>                             |
-|                                          | ```                                              |
-| Install the required dependencies        | ```bash                                           |
-|                                          | pip install -r requirements.txt                    |
-|                                          | ```                                              |
-| Set up environment variables             | Create a `.env` file in the root directory.       |
-|                                          | Add your `LANGCHAIN_API_KEY` in the `.env` file:  |
-|                                          | ```bash                                           |
-|                                          | LANGCHAIN_API_KEY=your_api_key_here                |
-|                                          | ```                                              |
-
-## Usage
-
-| Step                                     | Command/Instruction                                 |
-|------------------------------------------|----------------------------------------------------|
-| Run the Streamlit app                   | ```bash                                           |
-|                                          | streamlit run app.py                              |
-|                                          | ```                                              |
-| Open the web interface                   | Ask any question in the web interface!            |
-| Customize your interaction               | Select the model (`llama3.1`, `gemma2:2b`).       |
-|                                          | Adjust the temperature and max tokens using the sidebar. |
-
-## Project Structure
-
-
