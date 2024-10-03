@@ -2,10 +2,9 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/20b90c7a-8d6c-4814-8b66-ac88ed33c1be" alt="Description of the image" width="500"/>
+  <img src="https://github.com/user-attachments/assets/a8bba8ce-ee6d-4ed8-9046-a56b398b1704" alt="Description of the image" width="500"/>
 
 </div>
-
 
 This project is a Q&A chatbot powered by **Streamlit** and **Ollama** models, allowing users to ask questions and receive helpful responses. The chatbot provides an interactive interface and allows for model selection and response customization.
 
