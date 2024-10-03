@@ -1,4 +1,6 @@
-# Enhanced Q&A Chatbot With Ollama ![{02D8FA14-BCAF-40D6-A742-E087C84396A1}](https://github.com/user-attachments/assets/c3208c9b-5383-40f5-a0c3-dfdbaf2faf3f)
+# Enhanced Q&A Chatbot With Ollama 
+![{F62A6277-B47C-40A2-BB3F-F82EBE8B9402}](https://github.com/user-attachments/assets/6e23566c-6a1c-4143-bbb3-515f6643293d)
+
 
 This project is a Q&A chatbot powered by **Streamlit** and **Ollama** models, allowing users to ask questions and receive helpful responses. The chatbot provides an interactive interface and allows for model selection and response customization.
 
