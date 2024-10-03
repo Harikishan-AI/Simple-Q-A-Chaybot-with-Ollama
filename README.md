@@ -1,9 +1,7 @@
 # Enhanced Q&A Chatbot With Ollama 
 
 <div align="center">
-
-  <img src="![{DB43735E-23FE-435A-9370-4E232D9B2F5D}](https://github.com/user-attachments/assets/20b90c7a-8d6c-4814-8b66-ac88ed33c1be)" alt="Description of the image" width="500"/>
-
+![{DB43735E-23FE-435A-9370-4E232D9B2F5D}](https://github.com/user-attachments/assets/20b90c7a-8d6c-4814-8b66-ac88ed33c1be)
 </div>
 
 
