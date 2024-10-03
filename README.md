@@ -7,6 +7,10 @@ This project is a Q&A chatbot powered by **Streamlit** and **Ollama** models, al
 ## Features
 - **User-friendly Interface**: A simple web interface where users can ask any question.
 - **Model Selection**: Choose between open-source models such as `llama3.1` and `gemma2:2b`.
+  ![{1E68BCE4-3314-4DB3-A376-89A41218AA78}](https://github.com/user-attachments/assets/72118ec2-145c-4210-ad27-7e4f8fa58c36)
+  ![{E3023D8A-FE2F-4777-9469-C8D4C1A237E8}](https://github.com/user-attachments/assets/7de5c03c-79ba-4bfa-ba28-bedd6b28673f)
+
+
 - **Response Customization**: Adjust parameters like `temperature` and `max tokens` to fine-tune responses.
 - **Langsmith Tracking**: Integrated Langsmith API for project tracking.
 
