@@ -29,7 +29,7 @@ def generate_response(question,llm,temperature,max_tokens):
     return answer
 
 ## #Title of the app
-st.title("Enhanced Q&A Chatbot With Ollama")
+st.title("Q&A Chatbot With Ollama")
 
 
 ## Select the OpenAI model
@@ -40,7 +40,7 @@ temperature=st.sidebar.slider("Temperature",min_value=0.0,max_value=1.0,value=0.
 max_tokens = st.sidebar.slider("Max Tokens", min_value=50, max_value=300, value=150)
 
 ## MAin interface for user input
-st.write("Goe ahead and ask any question")
+st.write("Go ahead and ask any question")
 user_input=st.text_input("You:")
 
 
